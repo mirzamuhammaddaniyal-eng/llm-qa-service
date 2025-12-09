@@ -33,6 +33,7 @@ llm-qa-service/
 │   └── main.py
 ├── requirements.txt
 └── README.md
+```
 
 ## Run Locally
 
